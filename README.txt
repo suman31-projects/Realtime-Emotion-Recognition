@@ -7,7 +7,7 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 Download haarcascades file 
 https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
-How torun the project 
+How to run the project 
 1] Download necessary packages
 * pip install numpy
 * pip install pandas
@@ -15,7 +15,7 @@ How torun the project
 * pip install keras
 * pip install opencv-python
 
-2] Train the model by running the 1.py file
+2] Train the model by running the 1.py file ( Accuracy can be improved by training the model with more number of epoch)
 
 3] Run the project by the help of 2.py file
 
