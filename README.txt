@@ -1,0 +1,20 @@
+Real time emotion Recognition
+
+Download kaggle dataset 
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data 
+
+
+Download haarcascades file 
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+
+How torun the project 
+1] Download necessary packages
+* pip install numpy
+* pip install pandas
+* pip install tensorflow
+* pip install keras
+* pip install opencv-python
+
+2] Train the model by running the 1.py file
+
+3] Run the project by the help of 2.py file
